@@ -19,14 +19,14 @@ $ git clone https://github.com/zlxlty/Mirror.git
 ```
 ### Prerequisites
 * love2d 11.1
-* Windows Vista+ / MacOS 10.7+ / Ubuntu 14.04+
+* Windows Vista+ / MacOS 10.7+ / Ubuntu PPA
 
 ### Installing
 If you haven't installed love2d on your computer, here is the URL link to [Download Love2d](https://love2d.org/)
 
 ***
 ## Running_the_game
-To start the game, just click on `Mirror.zip` and the game should start running.
+To start the game, open `Mirror.zip` with `love2d` and the game should start running.
 
 ## Control
 * The movement of two characters is controlled by four **arrow keys**
